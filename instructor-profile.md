@@ -16,7 +16,7 @@ Cloud and cybersecurity educator with over 11 years of experience designing and 
 - **Azure Cloud Security & Architecture** (Microsoft Defender, Sentinel, Purview, Entra ID/IAM)  
 - **Microsoft 365 & Modern Workplace Enablement** (Copilot, compliance, productivity transformation)  
 - **Networking & Load Balancing** (F5 BIG‑IP, NGINX, DNS/GTM, LTM)  
-- **Cybersecurity Standards & Compliance** (Cloud Security Alliance, ISC2 frameworks)  
+- **Cybersecurity Standards & Compliance** (NIST CSF, GDPR, FedRAMP mod/high)  
 
 ## Certifications
 ### Microsoft
