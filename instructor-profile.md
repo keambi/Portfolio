@@ -1,3 +1,9 @@
+---
+layout: default
+title: Instructor Profile
+description: ""
+---
+
 # Teaching | Training Profile – Kyle Williams
 
 ## Professional Summary
