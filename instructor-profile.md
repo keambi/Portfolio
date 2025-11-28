@@ -1,4 +1,4 @@
-# Teaching/ Training Profile – Kyle Williams
+# Teaching | Training Profile – Kyle Williams
 
 ## Professional Summary
 Cloud and cybersecurity educator with over 11 years of experience designing and delivering curriculum‑style training for diverse audiences worldwide. Expert in **AI adoption, Azure Cloud Services, Microsoft 365, and Copilot integration**, with a proven ability to simplify complex concepts into engaging, repeatable learning experiences. Recognized for teaching audiences ranging from 10 participantes up to 2,100, both domestically and internationally, and for aligning technical instruction with strategic business and academic outcomes.
