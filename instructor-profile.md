@@ -1,3 +1,7 @@
+---
+layout: profile
+---
+
 
 # AI, Cloud & Cybersecurity Trainer & Advisor – Kyle Williams
 
